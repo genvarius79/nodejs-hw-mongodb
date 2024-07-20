@@ -14,7 +14,7 @@ tags:
     description: Auth operations.
 servers:
   - url: 'http://localhost:3000'
-  - url: https://nodejs-hw-mongodb-2-752m.onrender.com
+  - url: 'https://hw7-swagger-eeiu.onrender.com'
 
 paths:
   /contacts:
