@@ -554,7 +554,11 @@
         "required": [
           "_id",
           "name",
-          "phoneNumber"
+          "phoneNumber",
+          "isFavourite",
+          "contactType",
+          "isFavourite",
+          "contactType"
         ],
         "properties": {
           "_id": {
